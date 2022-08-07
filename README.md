@@ -7,8 +7,7 @@ Software Engineer
 * 🌍  I'm based in Berlin
 * 🖥️  See my portfolio at [profile](http://techonomylabs.com)
 * ✉️  You can contact me at [daniyal.ibrahim10@gmail.com](mailto:daniyal.ibrahim10@gmail.com)
-* 🧠  I'm learning Neural Networks and NLP
-* ⚡  i can never struggle for seeking a job but for excellence and perfection in my profession. I dont believe that undergoing a certain course to get certified would improve or apprehend my understanding about the subject rather hands on experiments are more practical to master one subject.
+
 
 <a href="https://www.twitter.com/dany_439" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/dany_439?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
