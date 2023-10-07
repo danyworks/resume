@@ -1,3 +1,5 @@
+<div class="black">
+
 Hi 👋 My name is Daniyal Ibrahim
 ================================
 
@@ -159,3 +161,6 @@ src="https://img.shields.io/github/followers/danyworks?logo=github&style=for-the
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+
+
+</div>
