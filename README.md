@@ -22,25 +22,25 @@ DevOps Engineer & Software Developer
 
 ### Job Experience
 -----------------
-* 🖥️ since 01.2024, Founder of the Software Company [XenOrBit](https://xenorbit.com)
+
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLLstVwDcORp7VjBIr_twK8_gTtiGQR8OtsYotSMrqsL0zovi6kp5-6rJFq5GS8on6pJw&usqp=CAU" width="auto" height="25"/>  since 08.2022, 🧑🏾‍💻 Working as a DevOps Engineer at [Capgemini](https://www.capgemini.com/de-de/) <img src="https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png" width="auto" height="15"/>
-* <img src="https://pbs.twimg.com/profile_images/1453339438029869059/Mpk9QXje_400x400.jpg" width="auto" height="25"/> since 10.2020, 🧑🏾‍💻 Working as a Freelance Software Developer at [Fiverr](https://www.fiverr.com/notyouravgdev) 
+* <img src="https://pbs.twimg.com/profile_images/1453339438029869059/Mpk9QXje_400x400.jpg" width="auto" height="25"/> since 10.2020, 🧑🏾‍💻 Working as a [Freelance Software Developer at Fiverr](https://www.fiverr.com/notyouravgdev) 
 
 
 ### Eduacation
 -----------------
 
-* 🏫  Graduate of [B.Eng. Telematics](https://en.th-wildau.de/index.php?id=23510) at [Technical University of Applied Sciences Wildau](https://en.th-wildau.de/) 
+* | 🏫  | 2018 - 2022 | Graduate of [B.Eng. Telematics](https://en.th-wildau.de/index.php?id=23510) at [Technical University of Applied Sciences](https://en.th-wildau.de/), Wildau, Brandenburg, Germany
 <img src="https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png" width="auto" height="15"/>
 
-* 🏫  I've completed my Secondary and High School from [Military College Murree](https://www.mcm.edu.pk/mcm/) 
+* | 🏫  | 2011 - 2015 | I've completed my Secondary and High School at [Military College Murree](https://www.mcm.edu.pk/mcm/), Murree, Punjab, Pakistan
 <img src="https://www.countryflags.com/wp-content/uploads/pakistan-flag-png-large.png" width="auto" height="15"/>
 
 
 ### Bio Data
------------------
-* 🌍  I've spend the last decade and still located here in Berlin <img src="https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png" width="auto" height="15"/> 
-* 🗺️ Born and raised in <img src="https://www.countryflags.com/wp-content/uploads/pakistan-flag-png-large.png" width="auto" height="15"/>
+----------------- 
+* 🌍  I've almost spend the last decade and still located here in Berlin, Germany  <img src="https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png" width="auto" height="15"/> 
+* 🗺️ Born and raised in Pakistan <img src="https://www.countryflags.com/wp-content/uploads/pakistan-flag-png-large.png" width="auto" height="15"/>
 * 🎂 Born in the 90s <img src="https://www.countryflags.com/wp-content/uploads/pakistan-flag-png-large.png" width="auto" height="15"/>
 
 ### Languages
@@ -49,31 +49,44 @@ DevOps Engineer & Software Developer
 <img src="https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png" width="auto" height="15"/>
 * Fluent in English 
 <img src="https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png" width="auto" height="15"/>
-* Fluent in Urdu 
-<img src="https://www.countryflags.com/wp-content/uploads/pakistan-flag-png-large.png" width="auto" height="15"/>
-* Punjabi is my Mother Tongue 
+* Native Languages "Urdu & Punjabi"
 <img src="https://www.countryflags.com/wp-content/uploads/pakistan-flag-png-large.png" width="auto" height="15"/>
 
 
 ### Contact Details
 -----------------
-
+* [My Resume (English & Deutsch) [pdf]](https://drive.google.com/drive/folders/1_Y-qn7KXACavy64cEP8D7HBXmUeSMK3I?usp=drive_link)
+* [My Credly Profile](https://www.credly.com/users/daniyal-ibrahim/badges)
 * ✉️ You can contact me via [email](mailto:daniyal.ibrahim10@gmail.com)
 * 🌐 Or via Social Media:
  
 <div style="display:flex; gap:10px; align-items:center; justify-content:center;">
+    <a href="https://www.x.com/dany_439" target="_blank" > 
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+    </a>
     <a href="https://www.github.com/danyworks"> 
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
     </a>
     <a href="https://www.linkedin.com/in/daniyal-ibrahim"  >
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </a>
-    <a href="https://www.x.com/dany_439" target="_blank" > 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-    </a>
 </div>
 
-### My GitHub Badges
+
+### My Achievements - Credly Badges
+----------------------------------------------------------------
+
+<a href="https://www.credly.com/badges/7b3f9244-baa0-48c8-b3c6-7061762c5a58/public_url" target="_blank">
+    <img src="assets/aws-certified-developer-associate.png" width="25%" height="25%" alt="AWS Certified Developer" />
+</a>
+<a href="https://www.credly.com/badges/7efa079c-b716-41ad-849e-a42fc88cdcda/public_url" target="_blank">
+    <img src="assets/aws-certified-cloud-practitioner.png" width="25%" height="25%" alt="AWS Certified Cloud Practitioner" />
+</a>
+<a href="https://www.credly.com/badges/c10990db-5702-4de5-a333-51ec705c2487/public_url" target="_blank">
+    <img src="assets/aws-partner-accreditation-technical.png" width="25%" height="25%" alt="Git" />
+</a>
+
+### My Achievements - GitHub Badges
 ----------------------------------------------------------------
 <div style="display:flex; gap:10px; align-items:center; justify-content:center;">
     <a href="https://github.com/danyworks?tab=achievements&achievement=yolo" target="_blank">
@@ -97,7 +110,7 @@ src="https://img.shields.io/github/followers/danyworks?logo=github&style=for-the
 
 <a href="http://www.github.com/danyworks"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danyworks&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Software Deveopment Skills
+### My Software Development Skills
 ----------------------------------------------------------------
 
 #### Frontend / UI Skills
