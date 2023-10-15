@@ -33,7 +33,7 @@ DevOps Engineer & Software Developer
 * | 🏫  | 2018 - 2022 | Graduate of [B.Eng. Telematics](https://en.th-wildau.de/index.php?id=23510) at [Technical University of Applied Sciences](https://en.th-wildau.de/), Wildau, Brandenburg, Germany
 <img src="https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png" width="auto" height="15"/>
 
-* | 🏫  | 2016 - 2017 | Completed Foundation Year at [Technical University of Applied Sciences](https://en.th-wildau.de/), Wildau, Brandenburg, Germany
+* | 🏫  | 2016 - 2017 | Completed [Wildau Foundation Year](https://en.th-wildau.de/study/programmes/wildau-foundation-year/overview/) at [Technical University of Applied Sciences](https://en.th-wildau.de/), Wildau, Brandenburg, Germany
 <img src="https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png" width="auto" height="15"/>
 
 
