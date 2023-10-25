@@ -3,6 +3,24 @@ Hi 👋 My name is Daniyal Ibrahim
 
 DevOps Engineer & Software Developer
 ---
+<p>
+    I feel DevOps is just a funky modern term for a System Administrator 
+    who automates infrastructure and configuration, usually in a 
+    Hyperscaler Cloud environment. 
+</p> 
+<p>
+    Besides that, as a DevOps Engineer i have been mainly responsible for 
+    deployment, documentation, testing in Google Cloud. Fortunately, i got the pioneer oppertunity to 
+    work as Platform Administrator of a Google Cloud with Sovereign Controls.
+    Wrote alot of yaml files for GitHub CI/CD, Kubernetes, Helm, Docker, Ansible etc.
+    Deployed and Maintained Logging, Monitoring , Networking Resources. 
+</p> 
+<p>
+    I'm a graduate of B.Eng. Telematics from Technical University of Applied Sciences Wildau, Germany
+    where I have learned to develop softwares using different programming languages i.e. go, python, java and typescript. 
+    Nevertheless i learned about Algorithms & Datastructures, Robotics, Distributed Computation and Storage, Telecommunications, 
+    Facility Automation and minor credit point modules of business and IT Law.
+</p> 
 
 <div style="width:250px; display: block; float: right; padding:10px;">
     <img src="https://lh3.googleusercontent.com/drive-viewer/AK7aPaDftxi4ixS_nKqQSx8qL5z24Ihfll9eJa7vZUVynuQ9b49zHV8oV4DeocY9WJUoeMI0l5w5BDtDSGINYBhrLfMAMrvgew=w2560-h1243" width="auto" height="auto"/>
