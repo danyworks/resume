@@ -1,0 +1,31 @@
+name: Update Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0,12 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Git
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+      - name: Update Readme
+        run: |
+          TIMESTAMP=$(date +"%Y%m%d%H%M%S")
+          HASH=$(echo -n $TIMESTAMP | sha256sum | cut -c1-7)
+          echo "hello, this is today's date: $TIMESTAMP, hash: $HASH" >> README.md
+
+      - name: Commit and push changes
+        run: |
+          git add README.md
+          git commit -m "Update README.md with today's date and hash"
+          git push
