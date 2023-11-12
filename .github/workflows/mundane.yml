@@ -27,14 +27,14 @@ jobs:
           git config --global user.email "danyworks@github.com"
           git config --global user.name "Elon Musk"
 
-      - name: Update Readme
+      - name: Update Mundane
         run: |
           TIMESTAMP=$(date +"%Y%m%d%H%M%S")
-          HASH=$(echo -n $TIMESTAMP | sha256sum | cut -c1-7)
-          echo "hello, this is today's date: $TIMESTAMP, hash: $HASH" >> README.md
+          HASH=$(echo -n $TIMESTAMP | sha256sum | cut -c1-55)
+          echo "* hello, this is today's date: $TIMESTAMP, hash: $HASH" >> Mundane.md
 
       - name: Commit and push changes
         run: |
-          git add README.md
-          git commit -m "Update README.md with today's date and hash"
+          git add Mundane.md
+          git commit -m "Update Mundane.md with today's date and hash"
           git push
