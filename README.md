@@ -1,42 +1,33 @@
-Hi 👋 My name is Daniyal Ibrahim
-================================
+# Hi 👋 My name is Daniyal Ibrahim
 
-DevOps Engineer & Software Developer
----
+#### Professional Summary
+------------------------------------------------
+
+DevOps Engineer with enthusiasm for automating infrastructure and configuration in hyperscaler cloud environments. Experienced with the Google Cloud ecosystem. 
+Proficient in the deployment and maintenance of logging, monitoring, and networking resources and with tools like GitHub CI/CD, Kubernetes, Helm, Docker, Ansible, Bash etc. 
+Served as a DevOps expert for offering platform support to developer teams.
+
+#### Personal Statement
+------------------------------------------------
+DevOps by profession, Software Developer by training, and Tech researcher by curiosity. 
+
+* 🧠 Eager to grow and committed to continuous learning, unlearning, and relearning. 
+* ⚡On a journey to achieve 10x growth.
 <p>
-    I feel DevOps is just a funky modern term for a System Administrator 
-    who automates infrastructure and configuration, usually in a 
-    Hyperscaler Cloud environment. 
+        In my perspective, DevOps embodies a contemporary nomenclature that encapsulates the responsibilities of a System Administrator, focusing on the automation of infrastructure and configuration tasks, particularly within the realm of hyperscaler cloud environments. 
+<p >
+    Furthermore, in my role as a DevOps Engineer, I had the privilege of participating in a collaborative working group dedicated to crafting a CI pipeline blueprint for DevSecOps processes. This endeavor entailed the seamless integration of security checks into the Software Development Life Cycle, thereby fortifying the security measures for software development.
 </p> 
 <p>
-    Besides that, as a DevOps Engineer i have been mainly responsible for 
-    deployment, documentation, testing in Google Cloud. Fortunately, i got the pioneer oppertunity to 
-    work as Platform Administrator of a Google Cloud with Sovereign Controls.
-    Wrote alot of yaml files for GitHub CI/CD, Kubernetes, Helm, Docker, Ansible etc.
-    Deployed and Maintained Logging, Monitoring , Networking Resources. 
-</p> 
-<p>
-    I'm a graduate of B.Eng. Telematics from Technical University of Applied Sciences Wildau, Germany
-    where I have learned to develop softwares using different programming languages i.e. go, python, java and typescript. 
-    Nevertheless i learned about Algorithms & Datastructures, Robotics, Distributed Computation and Storage, Telecommunications, 
-    Facility Automation and minor credit point modules of business and IT Law.
+    I hold a Bachelor of Engineering degree in Telematics from the Technical University of Applied Sciences Wildau, Germany. 
+    During my academic tenure, I acquired proficiency in software development, utilizing a diverse set of programming languages including Go, Python, Java, and TypeScript. 
+    Additionally, my curriculum encompassed comprehensive studies in Algorithms & Data Structures, Robotics, Distributed Computation and Storage, Telecommunications, and Facility Automation. I also undertook minor credit point modules pertaining to business and IT Law.
 </p> 
 
-<div style="width:250px; display: block; float: right; padding:10px;">
-    <img src="https://lh3.googleusercontent.com/drive-viewer/AK7aPaDftxi4ixS_nKqQSx8qL5z24Ihfll9eJa7vZUVynuQ9b49zHV8oV4DeocY9WJUoeMI0l5w5BDtDSGINYBhrLfMAMrvgew=w2560-h1243" width="auto" height="auto"/>
+<div style="width:250px; display: block; float: right; padding:10px; ">
+    <img src="https://avatars.githubusercontent.com/u/48337074?s=400&u=d526f6e055bc139a4b31bed5ae5a5606f76c5a93&v=4" width="auto" height="auto"/>
 </div>
 
-<p>
-    DevOps by Profession
-    <br/>
-    Software Developer by Training
-    <br/> 
-    and a Curiosity driven Tech Researcher by Choice
-    <br/>
-</p>
-
-* 🧠  I'm always Eager to Grow and ready to Learn, Unlearn and ReLearn
-* ⚡  On my journey to 10x growth!
 
 ### Job Experience
 -----------------
