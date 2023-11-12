@@ -1,4 +1,4 @@
-name: Update Readme
+name: Update Mundane
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: '0 0,12 * * *'
 
 jobs:
-  update-readme:
+  update-mundane:
     runs-on: ubuntu-latest
 
     steps:
@@ -31,10 +31,10 @@ jobs:
         run: |
           TIMESTAMP=$(date +"%Y%m%d%H%M%S")
           HASH=$(echo -n $TIMESTAMP | sha256sum | cut -c1-55)
-          echo "* hello, this is today's date: $TIMESTAMP, hash: $HASH" >> Mundane.md
+          echo "hello, Daniyal today's date is $TIMESTAMP, hash: $HASH" >> Mundane.md
 
       - name: Commit and push changes
         run: |
           git add Mundane.md
-          git commit -m "Update Mundane.md with today's date and hash"
+          git commit -m "stargazed as he viewed your profile"
           git push
