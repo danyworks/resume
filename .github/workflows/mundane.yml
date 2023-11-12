@@ -36,5 +36,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add Mundane.md
-          git commit -m "stargazed as he viewed your profile"
+          git commit -m "stargazed watching dany at work"
           git push
