@@ -1,5 +1,9 @@
 # Hi 👋 My name is Daniyal Ibrahim
 
+<div style="width:250px; display: block; float: right; padding:10px; ">
+    <img src="https://avatars.githubusercontent.com/u/48337074?s=400&u=d526f6e055bc139a4b31bed5ae5a5606f76c5a93&v=4" width="auto" height="auto"/>
+</div>
+
 #### Professional Summary
 ------------------------------------------------
 
@@ -14,7 +18,9 @@ DevOps by profession, Software Developer by training, and Tech researcher by cur
 * 🧠 Eager to grow and committed to continuous learning, unlearning, and relearning. 
 * ⚡On a journey to achieve 10x growth.
 
-        In my perspective, DevOps embodies a contemporary nomenclature that encapsulates the responsibilities of a System Administrator, focusing on the automation of infrastructure and configuration tasks, particularly within the realm of hyperscaler cloud environments.
+    ```
+    In my perspective, DevOps embodies a contemporary nomenclature that encapsulates the responsibilities of a System Administrator, focusing on the automation of infrastructure and configuration tasks, particularly within the realm of hyperscaler cloud environments.
+    ```
 
 <p >
     Furthermore, in my role as a DevOps Engineer, I had the privilege of participating in a collaborative working group dedicated to crafting a CI pipeline blueprint for DevSecOps processes. This endeavor entailed the seamless integration of security checks into the Software Development Life Cycle, thereby fortifying the security measures for software development.
@@ -25,9 +31,6 @@ DevOps by profession, Software Developer by training, and Tech researcher by cur
     Additionally, my curriculum encompassed comprehensive studies in Algorithms & Data Structures, Robotics, Distributed Computation and Storage, Telecommunications, and Facility Automation. I also undertook minor credit point modules pertaining to business and IT Law.
 </p> 
 
-<div style="width:250px; display: block; float: right; padding:10px; ">
-    <img src="https://avatars.githubusercontent.com/u/48337074?s=400&u=d526f6e055bc139a4b31bed5ae5a5606f76c5a93&v=4" width="auto" height="auto"/>
-</div>
 
 
 ### Job Experience
