@@ -13,8 +13,9 @@ DevOps by profession, Software Developer by training, and Tech researcher by cur
 
 * 🧠 Eager to grow and committed to continuous learning, unlearning, and relearning. 
 * ⚡On a journey to achieve 10x growth.
-<p>
-        In my perspective, DevOps embodies a contemporary nomenclature that encapsulates the responsibilities of a System Administrator, focusing on the automation of infrastructure and configuration tasks, particularly within the realm of hyperscaler cloud environments. 
+
+        In my perspective, DevOps embodies a contemporary nomenclature that encapsulates the responsibilities of a System Administrator, focusing on the automation of infrastructure and configuration tasks, particularly within the realm of hyperscaler cloud environments.
+
 <p >
     Furthermore, in my role as a DevOps Engineer, I had the privilege of participating in a collaborative working group dedicated to crafting a CI pipeline blueprint for DevSecOps processes. This endeavor entailed the seamless integration of security checks into the Software Development Life Cycle, thereby fortifying the security measures for software development.
 </p> 
