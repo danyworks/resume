@@ -30,8 +30,8 @@ jobs:
       - name: Update Mundane
         run: |
           TIMESTAMP=$(date +"%Y%m%d%H%M%S")
-          HASH=$(echo -n $TIMESTAMP | sha256sum | cut -c1-55)
-          echo "hello, Daniyal today's date is $TIMESTAMP, hash: $HASH" >> Mundane.md
+          HASH=$(echo -n $TIMESTAMP | sha256sum | cut -c1-7)
+          echo -e "hello, Daniyal today's date is $TIMESTAMP, hash: $HASH" >> Mundane.md
 
       - name: Commit and push changes
         run: |
