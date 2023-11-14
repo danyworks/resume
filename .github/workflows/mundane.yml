@@ -31,10 +31,10 @@ jobs:
         run: |
           TIMESTAMP=$(date +"%Y%m%d%H%M%S")
           HASH=$(echo -n $TIMESTAMP | sha256sum | cut -c1-7)
-          echo -e "hello, Daniyal today's date is $TIMESTAMP, hash: $HASH" >> Mundane.md
+          echo -e "Today's date is $TIMESTAMP, hash: $HASH \n" >> Mundane.md
 
       - name: Commit and push changes
         run: |
           git add Mundane.md
-          git commit -m "stargazed watching dany at work"
+          git commit -m "needs your company"
           git push
