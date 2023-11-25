@@ -2,9 +2,7 @@ name: Update Mundane
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0,12 * * *'
-
+  
 jobs:
   update-mundane:
     runs-on: ubuntu-latest
