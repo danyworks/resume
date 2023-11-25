@@ -24,23 +24,6 @@ jobs:
           
       - name: Set up Git
         run: |
-          git config --global user.email "daniyal.ibrahim10@gmail.com"
-          git config --global user.name "Danyworks"
-
-      - name: Update Mundane
-        run: |
-          TIMESTAMP=$(date +"%Y%m%d%H%M%S")
-          HASH=$(echo -n $TIMESTAMP | sha256sum | cut -c1-7)
-          echo -e "Today's date is $TIMESTAMP, hash: $HASH \n" >> Mundane.md
-
-      - name: Commit and push changes
-        run: |
-          git add Mundane.md
-          git commit -m "keeps learning"
-          git push
-          
-      - name: Set up Git
-        run: |
           git config --global user.email "danyworks@github.com"
           git config --global user.name "Elon Musk"
 
@@ -53,6 +36,6 @@ jobs:
       - name: Commit and push changes
         run: |
           git add Mundane.md
-          git commit -m "needs your company"
+          git commit -m "finds danyworks awesome!!!🤩"
           git push
           
