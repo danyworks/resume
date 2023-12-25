@@ -7,8 +7,9 @@
 #### Professional Summary
 ------------------------------------------------
 
-DevOps Engineer with enthusiasm for automating infrastructure and configuration in hyperscaler cloud environments. Experienced with the Google Cloud ecosystem. 
-Proficient in the deployment and maintenance of logging, monitoring, and networking resources and with tools like GitHub CI/CD, Kubernetes, Helm, Docker, Ansible, Bash etc. 
+DevOps Engineer with enthusiasm for automating infrastructure and configuration in hyperscaler cloud environments. Experienced with the Google Cloud and AWS ecosystem. 
+Proficient in software development with Java, JavaScript and Golang. Although i do not have 5 years or a decade of work experience, however i do excel in what i do and got recognized and appreciated by my peers at work.
+I have been responsible for  the deployment and maintenance of logging, monitoring, and networking resources and with tools like GitHub CI/CD, Kubernetes, Helm, Docker, Ansible, Bash etc. 
 Served as a DevOps expert for offering platform support to developer teams.
 
 #### Personal Statement
@@ -19,7 +20,11 @@ DevOps by profession, Software Developer by training, and Tech researcher by cur
 * ⚡On a journey to achieve 10x growth.
 
     ```
-    In my perspective, DevOps embodies a contemporary nomenclature that encapsulates the responsibilities of a System Administrator, focusing on the automation of infrastructure and configuration tasks, particularly within the realm of hyperscaler cloud environments.
+    In my perspective, DevOps embodies a contemporary nomenclature that encapsulates the responsibilities 
+    of a System Administrator, focusing on the automation of infrastructure and configuration tasks, 
+    particularly within the realm of hyperscaler cloud environments. 
+    In contrast to good old IT System Admin, the DevOps paradigm brought ample of automation with it. 
+    such automation was not possible in the past.
     ```
 
 <p >
@@ -90,7 +95,7 @@ DevOps by profession, Software Developer by training, and Tech researcher by cur
 </div>
 
 
-### My Achievements - Credly Badges
+### My Certifications
 ----------------------------------------------------------------
 
 <a href="https://www.credly.com/badges/7b3f9244-baa0-48c8-b3c6-7061762c5a58/public_url" target="_blank">
@@ -103,7 +108,7 @@ DevOps by profession, Software Developer by training, and Tech researcher by cur
     <img src="assets/aws-partner-accreditation-technical.png" width="25%" height="25%" alt="Git" />
 </a>
 
-### My Achievements - GitHub Badges
+### My GitHub Badges
 ----------------------------------------------------------------
 <div style="display:flex; gap:10px; align-items:center; justify-content:center;">
     <a href="https://github.com/danyworks?tab=achievements&achievement=yolo" target="_blank">
@@ -129,6 +134,12 @@ src="https://img.shields.io/github/followers/danyworks?logo=github&style=for-the
 
 ### My Software Development Skills
 ----------------------------------------------------------------
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIpiHOn5CYgoJQjeN2vzb5xuLvDe9EmDgJ7WnRXU9QpD33HkAEKaDRtRxvPJTS1bOZun0&usqp=CAU" width="36" height="36" alt="Docker" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 
 #### Frontend / UI Skills
 ----------------------------------------------------------------
@@ -179,13 +190,3 @@ src="https://img.shields.io/github/followers/danyworks?logo=github&style=for-the
 ----------------------------------------------------------------
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
-
-#### Others
-----------------------------------------------------------------
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIpiHOn5CYgoJQjeN2vzb5xuLvDe9EmDgJ7WnRXU9QpD33HkAEKaDRtRxvPJTS1bOZun0&usqp=CAU" width="36" height="36" alt="Docker" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
