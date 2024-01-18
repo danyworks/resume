@@ -19,13 +19,17 @@ DevOps by profession, Software Developer by training, and Tech researcher by cur
 * 🧠 Eager to grow and committed to continuous learning, unlearning, and relearning. 
 * ⚡On a journey to achieve 10x growth.
 
-    ```
+
     In my perspective, DevOps embodies a contemporary nomenclature that encapsulates the responsibilities 
     of a System Administrator, focusing on the automation of infrastructure and configuration tasks, 
     particularly within the realm of hyperscaler cloud environments. 
     In contrast to good old IT System Admin, the DevOps paradigm brought ample of automation with it. 
     such automation was not possible in the past.
-    ```
+    
+
+<p>
+    In the dynamic realm of production support automation, monitoring tools emerge as the guardians of operational excellence. Their prowess lies in the ability to gather, dissect, and present a panorama of data—encompassing application health, system status, and infrastructure performance. With their watchful gaze, they're the first line of defense. They decipher anomalies, uncover trends, and sound the alarm at the faintest hint of trouble. In this orchestration of vigilance, tools like Prometheus, Grafana, Nagios, and Datadog shine as sentinels, empowering us to foresee and thwart issues before they disrupt our users' experience.
+</p>
 
 <p >
     Furthermore, in my role as a DevOps Engineer, I had the privilege of participating in a collaborative working group dedicated to crafting a CI pipeline blueprint for DevSecOps processes. This endeavor entailed the seamless integration of security checks into the Software Development Life Cycle, thereby fortifying the security measures for software development.
