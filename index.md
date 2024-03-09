@@ -130,12 +130,9 @@ Although I do not have 5 years or a decade of work experience, however I do exce
 
 #### Cloud Technologies
 ----------------------------------------------------------------
-* AWS Developer Associate
-* AWS Cloud Practitioner
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="50" height="50" alt="Google Cloud" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="50" height="50" alt="Amazon Web Services" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="50" height="50" alt="Digital Ocean" />
 
 
 ### My GitHub Badges
@@ -160,6 +157,7 @@ Although I do not have 5 years or a decade of work experience, however I do exce
 ----------------------------------------------------------------
 <img
 src="https://img.shields.io/github/followers/danyworks?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+<br>
 <a href="http://www.github.com/danyworks"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danyworks&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 #### My AI Development Toolkit
@@ -167,7 +165,7 @@ src="https://img.shields.io/github/followers/danyworks?logo=github&style=for-the
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
 
-### My Software Development Toolkit
+#### My Software Development Toolkit
 ----------------------------------------------------------------
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIpiHOn5CYgoJQjeN2vzb5xuLvDe9EmDgJ7WnRXU9QpD33HkAEKaDRtRxvPJTS1bOZun0&usqp=CAU" width="36" height="36" alt="Docker" />
