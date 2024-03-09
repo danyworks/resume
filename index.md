@@ -1,7 +1,7 @@
 # Hi 👋 My name is Daniyal Ibrahim
 
 <div style="width:250px; display: block; float: right; padding:10px; ">
-    <img src="https://avatars.githubusercontent.com/u/48337074?s=400&u=d526f6e055bc139a4b31bed5ae5a5606f76c5a93&v=4" width="auto" height="auto"/>
+    <img src="https://drive.google.com/file/d/1jQ6WJreOCKraHy1CeWIgSRLqs1q-gHjj/view?usp=drive_link" width="auto" height="auto"/>
 </div>
 
 #### Professional Summary
