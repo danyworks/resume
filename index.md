@@ -7,40 +7,24 @@
 #### Professional Summary
 ------------------------------------------------
 
-DevOps Engineer with enthusiasm for automating infrastructure and configuration in hyperscaler cloud environments. Experienced with the Google Cloud and AWS ecosystem. 
-Proficient in software development with Java, JavaScript and Golang. Although i do not have 5 years or a decade of work experience, however i do excel in what i do and got recognized and appreciated by my peers at work.
-I have been responsible for  the deployment and maintenance of logging, monitoring, and networking resources and with tools like GitHub CI/CD, Kubernetes, Helm, Docker, Ansible, Bash etc. 
-Served as a DevOps expert for offering platform support to developer teams.
+DevOps Engineer with enthusiasm for automating infrastructure and configuration of cloud environments. Experienced with the Google Cloud and AWS ecosystem. Proficient in software development with Go, Java and JavaScript. Although I do not have 5 years or a decade of work experience, however I do excel in what I do and got recognized and appreciated by my peers at work. I have been responsible for the deployment and maintenance of observability, networking resources, Incident Management and automation of redundant workflows. I am experienced with tools like GitHub CI/CD, Gitlab CI, ArgoCD, Kubernetes, Helm, Docker, Ansible, Terraform, Elasticsearch, Grafana, Istio, Bash, Linux etc. Served as a DevOps expert for offering platform support to developer teams. Furthermore, in my role as a DevOps Engineer, I participated in a collaborative working group dedicated to crafting a CI pipeline blueprint for DevSecOps processes.
 
 #### Personal Statement
 ------------------------------------------------
 DevOps by profession, Software Developer by training, and Tech researcher by curiosity. 
 
 * 🧠 Eager to grow and committed to continuous learning, unlearning, and relearning. 
-* ⚡On a journey to achieve 10x growth.
+* ⚡ Like to share knowledge and proactively learn from peers.
 
-
-    In my perspective, DevOps embodies a contemporary nomenclature that encapsulates the responsibilities 
-    of a System Administrator, focusing on the automation of infrastructure and configuration tasks, 
-    particularly within the realm of hyperscaler cloud environments. 
-    In contrast to good old IT System Admin, the DevOps paradigm brought ample of automation with it. 
-    such automation was not possible in the past.
-    
-
-<p>
-    In the dynamic realm of production support automation, monitoring tools emerge as the guardians of operational excellence. Their prowess lies in the ability to gather, dissect, and present a panorama of data—encompassing application health, system status, and infrastructure performance. With their watchful gaze, they're the first line of defense. They decipher anomalies, uncover trends, and sound the alarm at the faintest hint of trouble. In this orchestration of vigilance, tools like Prometheus, Grafana, Nagios, and Datadog shine as sentinels, empowering us to foresee and thwart issues before they disrupt our users' experience.
-</p>
-
-<p >
-    Furthermore, in my role as a DevOps Engineer, I had the privilege of participating in a collaborative working group dedicated to crafting a CI pipeline blueprint for DevSecOps processes. This endeavor entailed the seamless integration of security checks into the Software Development Life Cycle, thereby fortifying the security measures for software development.
-</p> 
 <p>
     I hold a Bachelor of Engineering degree in Telematics from the Technical University of Applied Sciences Wildau, Germany. 
     During my academic tenure, I acquired proficiency in software development, utilizing a diverse set of programming languages including Go, Python, Java, and TypeScript. 
     Additionally, my curriculum encompassed comprehensive studies in Algorithms & Data Structures, Robotics, Distributed Computation and Storage, Telecommunications, and Facility Automation. I also undertook minor credit point modules pertaining to business and IT Law.
 </p> 
 
-
+<p>
+    In the dynamic realm of production support automation, monitoring tools emerge as the guardians of operational excellence. Their prowess lies in the ability to gather, dissect, and present a panorama of data—encompassing application health, system status, and infrastructure performance. With their watchful gaze, they're the first line of defense. They decipher anomalies, uncover trends, and sound the alarm at the faintest hint of trouble. In this orchestration of vigilance, tools like Prometheus, Grafana, Nagios, and Datadog shine as sentinels, empowering us to foresee and thwart issues before they disrupt our users' experience.
+</p>
 
 ### Job Experience
 -----------------
@@ -112,6 +96,16 @@ DevOps by profession, Software Developer by training, and Tech researcher by cur
     <img src="assets/aws-partner-accreditation-technical.png" width="25%" height="25%" alt="Git" />
 </a>
 
+#### Cloud Technologies
+----------------------------------------------------------------
+* AWS Developer Associate
+* AWS Cloud Practitioner
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" />
+
+
 ### My GitHub Badges
 ----------------------------------------------------------------
 <div style="display:flex; gap:10px; align-items:center; justify-content:center;">
@@ -129,14 +123,19 @@ DevOps by profession, Software Developer by training, and Tech researcher by cur
     </a>
 </div>
 
+
 ### My GitHub Stats
 ----------------------------------------------------------------
 <img
 src="https://img.shields.io/github/followers/danyworks?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-
 <a href="http://www.github.com/danyworks"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danyworks&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### My Software Development Skills
+#### My AI Development Toolkit
+----------------------------------------------------------------
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
+
+### My Software Development Toolkit
 ----------------------------------------------------------------
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIpiHOn5CYgoJQjeN2vzb5xuLvDe9EmDgJ7WnRXU9QpD33HkAEKaDRtRxvPJTS1bOZun0&usqp=CAU" width="36" height="36" alt="Docker" />
@@ -145,22 +144,20 @@ src="https://img.shields.io/github/followers/danyworks?logo=github&style=for-the
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 
-#### Frontend / UI Skills
+#### My Frontend / UI Toolkit
 ----------------------------------------------------------------
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
-
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
-
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
 
 
-#### Programming Languages Skills
+#### My Programming Languages Toolkit
 ----------------------------------------------------------------
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
@@ -170,7 +167,7 @@ src="https://img.shields.io/github/followers/danyworks?logo=github&style=for-the
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
 
-#### Databases Skills
+#### My Databases Toolkit
 ---------------------------------------------------------------
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
@@ -178,19 +175,3 @@ src="https://img.shields.io/github/followers/danyworks?logo=github&style=for-the
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" />
-
-
-#### Cloud Technologies
-----------------------------------------------------------------
-* AWS Developer Associate
-* AWS Cloud Practitioner
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" />
-
-
-#### AI Development Skills
-----------------------------------------------------------------
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
