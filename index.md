@@ -1,7 +1,7 @@
 # Hi 👋 My name is Daniyal Ibrahim
 
 <div style="width:250px; display: block; float: right; padding:10px; ">
-    <img src="./assets/me.pg18.txt" width="auto" height="auto"/>
+    <img src="./assets/photo.png" width="auto" height="auto"/>
 </div>
 
 #### Professional Summary
