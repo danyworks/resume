@@ -51,13 +51,7 @@ DevOps by profession, Software Developer by training, and Tech researcher by cur
 * ⚡ Like to share knowledge and proactively learn from peers.
 
 <p>
-    DevOps Engineer with enthusiasm for automating infrastructure and configuration of cloud environments. Experienced with the Google Cloud and AWS ecosystem. Proficient in software development with Go, Java and JavaScript. Although I do not have 5 years or a decade of work experience, however I do excel in what I do and got recognized and appreciated by my peers at work. I have been responsible for the deployment and maintenance of observability, networking resources, Incident Management and automation of redundant workflows. I am experienced with tools like GitHub CI/CD, Gitlab CI, ArgoCD, Kubernetes, Helm, Docker, Ansible, Terraform, Elasticsearch, Grafana, Istio, Bash, Linux etc. Served as a DevOps expert for offering platform support to developer teams. Furthermore, in my role as a DevOps Engineer, I participated in a collaborative working group dedicated to crafting a CI pipeline blueprint for DevSecOps processes.
-</p> 
-
-<p>
-    I hold a Bachelor of Engineering degree in Telematics from the Technical University of Applied Sciences Wildau, Germany. 
-    During my academic tenure, I acquired proficiency in software development, utilizing a diverse set of programming languages including Go, Python, Java, and TypeScript. 
-    Additionally, my curriculum encompassed comprehensive studies in Algorithms & Data Structures, Robotics, Distributed Computation and Storage, Telecommunications, and Facility Automation. I also undertook minor credit point modules pertaining to business and IT Law.
+Although I do not have 5 years or a decade of work experience, however I do excel in what I do and got recognized and appreciated by my peers at work. I have been responsible for the deployment and maintenance of observability, networking resources, Incident Management and automation of redundant workflows. I am experienced with tools like GitHub CI/CD, Gitlab CI, ArgoCD, Kubernetes, Helm, Docker, Ansible, Terraform, Elasticsearch, Grafana, Istio, Bash, Linux etc. Served as a DevOps expert for offering platform support to developer teams. Furthermore, in my role as a DevOps Engineer, I participated in a collaborative working group dedicated to crafting a CI pipeline blueprint for DevSecOps processes.
 </p> 
 
 <p>
