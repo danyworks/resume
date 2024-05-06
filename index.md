@@ -50,9 +50,6 @@ DevOps by profession, Software Developer by training, and Tech researcher by cur
 * 🧠 Eager to grow and committed to continuous learning, unlearning, and relearning. 
 * ⚡ Like to share knowledge and proactively learn from peers.
 
-<p>
-Although I do not have 5 years or a decade of work experience, however I do excel in what I do and got recognized and appreciated by my peers at work. I have been responsible for the deployment and maintenance of observability, networking resources, Incident Management and automation of redundant workflows. I am experienced with tools like GitHub CI/CD, Gitlab CI, ArgoCD, Kubernetes, Helm, Docker, Ansible, Terraform, Elasticsearch, Grafana, Istio, Bash, Linux etc. Served as a DevOps expert for offering platform support to developer teams. Furthermore, in my role as a DevOps Engineer, I participated in a collaborative working group dedicated to crafting a CI pipeline blueprint for DevSecOps processes.
-</p> 
 
 <p>
     In the dynamic realm of production support automation, monitoring tools emerge as the guardians of operational excellence. Their prowess lies in the ability to gather, dissect, and present a panorama of data—encompassing application health, system status, and infrastructure performance. With their watchful gaze, they're the first line of defense. They decipher anomalies, uncover trends, and sound the alarm at the faintest hint of trouble. In this orchestration of vigilance, tools like Prometheus, Grafana, Nagios, and Datadog shine as sentinels, empowering us to foresee and thwart issues before they disrupt our users' experience.
